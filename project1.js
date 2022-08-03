@@ -1,3 +1,0 @@
-let o = {
-    name:'rukia'
-}
